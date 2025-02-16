@@ -159,7 +159,7 @@ Dengan menginstal **Git, VS Code, dan Node.js**, kita dapat mengembangkan aplika
 
 ---
 ### Jawaban Soal Pratikum 3
-![Screenshot](assets/Screenshot_2025-02-16 143829.png)
+![Screenshot](assets/Screenshot_2025-02-16_143829.png)
 
 ---
 ### Jawaban Soal Pratikum 4
@@ -208,6 +208,6 @@ function Profile() {
 />
 ```
 Dengan cara ini, kita dapat menampilkan gambar berdasarkan data yang ada di dalam objek `user`, tanpa perlu menulis URL gambar secara manual.
-![Screenshot](assets/Screenshot_2025-02-16 144519.png)
+![Screenshot](assets/Screenshot_2025-02-16_144519.png)
 ---
 
